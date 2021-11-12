@@ -642,7 +642,7 @@ export default {
                         this.reasonsForReferral = data["reasonsForReferral"];
                         this.sourceOfReferral = data['sourceOfReferral'];
                         this.followUpPlans = data['followUpPlans'];
-                        this.reportPreparedBy = data['reportPreparedBy'];
+                        // this.reportPreparedBy = data['reportPreparedBy'];
                         this.retrieveSuccess = true;
                     })}
                     else {
